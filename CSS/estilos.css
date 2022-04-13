@@ -1,0 +1,12 @@
+.bg-header{
+    background-image: url(../IMG/BG.png);
+    background-size:cover;
+    background-position:center;
+    height: 100vh;
+}
+.bg-footer{
+    background-image: url(../IMG/bg-footer.jpg);
+    background-size:cover;
+    background-position:center center;
+/* height: 15vh; */
+}
